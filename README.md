@@ -1,6 +1,6 @@
-# portfolio_flutter_web
+# Personal Portfolio Website
 
-A new Flutter project.
+A Portfolio website built with the help of Flutter.
 
 ## Getting Started
 
