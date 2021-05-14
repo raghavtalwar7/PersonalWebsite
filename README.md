@@ -1,5 +1,11 @@
-Personal Portfolio Website
+
+=======
+# Personal Portfolio Website
+
 A Portfolio website built with the help of Flutter.
+
+## Getting Started
+>>>>>>> cbf43a6efd59756b67f4d3ee3cfe0dd2d0105dc8
 
 Getting Started
 This project is a starting point for a Flutter application.
